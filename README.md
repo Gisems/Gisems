@@ -3,6 +3,7 @@ Mi objetivo es iniciarme de manera profesional en IT como desarrolladora Front E
 Estoy constantemente aprendiendo y buscando perfeccionarme en diversas herramientas que me hagan creer en esta profesión.
 
 Trabajos realizados en cursos:
+
 Festival de Musica: https://festivalmusicags.netlify.app/
 
 Blog de Café: https://blogcafegs.netlify.app/
