@@ -4,6 +4,9 @@ Estoy constantemente aprendiendo y buscando perfeccionarme en diversas herramien
 
 Trabajos realizados en cursos:
 Festival de Musica: https://festivalmusicags.netlify.app/
+
 Blog de Café: https://blogcafegs.netlify.app/
+
 Tienda Virtual: https://tiendavirtualgs.netlify.app/
+
 Freelancer: https://freelancergs.netlify.app/
