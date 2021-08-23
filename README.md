@@ -1,6 +1,6 @@
 Hola 👋, soy Gisela María Suárez.
 Mi objetivo es iniciarme de manera profesional en IT como desarrolladora Front End.
-Estoy constantemente aprendiendo y buscando perfeccionarme en diversas herramientas que me hagan creer en esta profesión.
+Estoy constantemente aprendiendo y buscando perfeccionarme en diversas herramientas que me hagan crecer en esta profesión.
 
 Trabajos realizados en cursos:
 
